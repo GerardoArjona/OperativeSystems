@@ -1,3 +1,7 @@
+//Materia: Sistemas Operativos
+//Grupo: 
+//Alumnos: Arjona Jiménez Gerardo, Fuentes Samaniego Irving
+
 #include <stdio.h>
 
 int promedio(int valores[], int cantidad) {
